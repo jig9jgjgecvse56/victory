@@ -1,0 +1,22 @@
+{
+    "name": "ovo",
+    "description": "ovo.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "0afce0fc-a2b3-4a86-b6ea-ee955d453af4"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/jig9jgjgecvse56/victory/",
+    "repository": "https://github.com/jig9jgjgecvse56/victory",
+    "stack": "container"
+}
